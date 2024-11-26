@@ -23,11 +23,11 @@ Here are my educational attainment:
 """)
 
 # Editable Parental Information
-    st.header("Parental Information")
-    father_name = st.text_input("Father's Name", "Mr. Joel G. Ga")
-    father_occupation = st.text_input("Father's Occupation", "Tricycle Driver")
-    mother_name = st.text_input("Mother's Name", "Mrs. Nora A. Ga")
-    mother_occupation = st.text_input("Mother's Occupation", "Cooked")
+st.header("Parental Information")
+father_name = st.text_input("Father's Name", "Mr. Joel G. Ga")
+father_occupation = st.text_input("Father's Occupation", "Tricycle Driver")
+mother_name = st.text_input("Mother's Name", "Mrs. Nora A. Ga")
+mother_occupation = st.text_input("Mother's Occupation", "Cooked")
 
 
 # Contact Section
