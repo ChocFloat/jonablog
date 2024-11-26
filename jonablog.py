@@ -3,7 +3,7 @@ import streamlit as st
 # Set the title of the page
 st.title("Jonavell Ga Biography Blog :teddy bear:")
 
-
+st.image(SNOW_20241026_180458_236.jpg,caption='Have a Good Day', width=200)
 
 # Introduction Section
 st.header("Introduction")
