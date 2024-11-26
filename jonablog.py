@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Set the title of the page
-st.title("My Biography Blog :teddy bear:")
+st.title("My Biography Blog :rose:")
 
 # Add a photo (Make sure to replace 'your_image.jpg' with your actual image file path)
 st.image('SNOW_20241026_180458_236.jpg', caption='Have a Good Day', width=150)
