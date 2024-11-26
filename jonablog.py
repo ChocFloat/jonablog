@@ -4,7 +4,7 @@ import streamlit as st
 st.title("My Biography Blog :teddy bear:")
 
 # Add a photo (Make sure to replace 'your_image.jpg' with your actual image file path)
-st.image(SNOW_20241026_180458_236.jpg,caption='Have a Good Day', width=150)
+st.image('SNOW_20241026_180458_236.jpg', caption='Have a Good Day', width=150)
 
 # Introduction Section
 st.header("Introduction")
