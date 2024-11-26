@@ -3,8 +3,7 @@ import streamlit as st
 # Set the title of the page
 st.title("Jonavell Ga Biography Blog :teddy bear:")
 
-# Add a profile picture (Ensure to upload the image to GitHub or use a local path)
-st.image('jona.jpg', caption='This is me!', width=150)  # Update the path if needed
+
 
 # Introduction Section
 st.header("Introduction")
