@@ -13,6 +13,12 @@ Hi! I'm **Jonavell Ga**, a First Year student at Surigao del Norte State Univers
 I love reading books and watching dramas.
 """)
 
+# Display calculated age
+st.write(f"Age: {age}")
+    
+# Add Gender input
+gender = st.selectbox("Select your gender", ["Female", "Male", "Other", "Prefer not to say"])
+
 # Education Section
 st.header("Educational Attainment")
 st.write("""
