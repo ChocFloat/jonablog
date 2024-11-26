@@ -12,9 +12,6 @@ st.write("""
 Hi! I'm **Jonavell Ga**, a First Year student at Surigao del Norte State University, 
 I love reading books and watching dramas.
 """)
-
-# Display calculated age
-st.write(f"Age: {age}")
     
 # Add Gender input
 gender = st.selectbox("Select your gender", ["Female", "Male", "Other", "Prefer not to say"])
